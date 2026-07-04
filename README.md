@@ -1,1 +1,0 @@
-# Accident-Identification-ECE-Project
